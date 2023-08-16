@@ -2,7 +2,7 @@
 
 /**
  * Дан следующий код, исправьте его там, где требуется <br>
- * (задание 3 https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit)
+ * (задание3 https://docs.google.com/document/d/17EaA1lDxzD5YigQ5OAal60fOFKVoCbEJqooB9XfhT7w/edit)
  *
  * внесем изменения, для выполнения кода без вызова Exceptions
  */
